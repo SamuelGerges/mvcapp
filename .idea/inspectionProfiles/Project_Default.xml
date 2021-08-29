@@ -1,0 +1,46 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssInvalidHtmlTagReference" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssNoGenericFontName" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssRedundantUnit" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="HtmlFormInputWithoutLabel" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="myValues">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSAnnotator" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PhpAbstractStaticMethodInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpConstantReassignmentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpExpressionResultUnusedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpFullyQualifiedNameUsageInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpIncludeInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpInconsistentReturnPointsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpInternalEntityUsedInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpMethodParametersCountMismatchInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpMissingParentConstructorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpParameterByRefIsNotUsedAsReferenceInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpParamsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpPrivateFieldCanBeLocalVariableInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpPropertyOnlyWrittenInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpSingleStatementWithBracesInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="PhpUndefinedFieldInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUndefinedMethodInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUndefinedVariableInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PhpUnnecessaryCurlyVarSyntaxInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUnnecessaryLocalVariableInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUnnecessarySemicolonInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUnusedAliasInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUnusedParameterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpUnusedPrivateMethodInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpVoidFunctionResultUsedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
